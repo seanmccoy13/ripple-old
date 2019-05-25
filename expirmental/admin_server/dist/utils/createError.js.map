@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/utils/createError.js"],"names":["createError","path","message"],"mappings":";;;;;AAAA,MAAMA,cAAc,CAACC,IAAD,EAAOC,OAAP,KAAmB,CACrC;AACED,MADF;AAEEC;AAFF,CADqC,CAAvC;;kBAOeF,W","file":"createError.js","sourcesContent":["const createError = (path, message) => [\r\n  {\r\n    path,\r\n    message\r\n  }\r\n]\r\n\r\nexport default createError\r\n"]}
