@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# https://github.com/github/gitignore/blob/master/Node.gitignore #
+##################################################################
+
+>>>>>>> initial commit
 # Logs
 logs
 *.log
@@ -29,14 +35,21 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+<<<<<<< HEAD
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
+=======
+>>>>>>> initial commit
 
 # Dependency directories
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
 # TypeScript v1 declaration files
+=======
+# Typescript v1 declaration files
+>>>>>>> initial commit
 typings/
 
 # Optional npm cache directory
@@ -57,5 +70,12 @@ typings/
 # dotenv environment variables file
 .env
 
+<<<<<<< HEAD
 # next.js build output
 .next
+=======
+# Custom
+.idea
+dist
+
+>>>>>>> initial commit
