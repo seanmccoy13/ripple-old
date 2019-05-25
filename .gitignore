@@ -1,9 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # https://github.com/github/gitignore/blob/master/Node.gitignore #
 ##################################################################
 
 >>>>>>> initial commit
+=======
+# https://github.com/github/gitignore/blob/master/Node.gitignore #
+##################################################################
+
+>>>>>>> save repo
 # Logs
 logs
 *.log
@@ -36,7 +42,11 @@ bower_components
 .lock-wscript
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Compiled binary addons (https://nodejs.org/api/addons.html)
+=======
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+>>>>>>> save repo
 build/Release
 =======
 >>>>>>> initial commit
@@ -46,10 +56,14 @@ node_modules/
 jspm_packages/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TypeScript v1 declaration files
 =======
 # Typescript v1 declaration files
 >>>>>>> initial commit
+=======
+# Typescript v1 declaration files
+>>>>>>> save repo
 typings/
 
 # Optional npm cache directory
@@ -71,6 +85,7 @@ typings/
 .env
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # next.js build output
 .next
 =======
@@ -79,3 +94,8 @@ typings/
 dist
 
 >>>>>>> initial commit
+=======
+# Custom
+.idea
+dist
+>>>>>>> save repo
