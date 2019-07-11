@@ -72,6 +72,7 @@ const DateRangePicker = ({ update, mutate }) => {
           onChange={date => setEnd(date)}
         />
       )}
+
     </StyledPickerDiv>
   );
 };
