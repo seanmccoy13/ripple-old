@@ -15,7 +15,7 @@
     "lint": "esw -w src test"
   },
   "dependencies": {
-    "apollo-server-express": "^2.2.3",
+    "apollo-server-express": "^2.14.2",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
